@@ -7,29 +7,29 @@ paginate: 5
 gems: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://biomadeira.github.io/vitae
-author: Fábio Madeira
+url: https://nicktunac.github.io/vitae
+author: Nick Tunac
 
 # edit this section with your information
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: /vitae/
-title: Chris Turner's Resume
-name: Chris Turner
-email: christurner@me.com
-email_full: mailto:youremail@me.com
-website: github.io/sustain
-website_full: https://biomadeira.github.io/sustain
-github: trending
-twitter: twitter
-tel: +44 0000 000000
-tel_full: tel:+440000000000
+baseurl: /vitae
+title: Nick Tunac's Resume
+name: Nick Tunac
+email: dominick.tunac@me.com
+email_full: mailto:dominick.tunac@gmail.com
+website: nicktunac.github.io
+website_full: https://nicktunac.github.io/
+github: nicktunac
+twitter: nicknyak
+tel: +63 9354 551716
+tel_full: tel:+639354551716
 google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
-address: 44 Perth Street
-postcode: EH3 5BL
-city: Edinburgh
-country: United Kingdom
-google_analytics: UA-69300817-1
+#address: Mandaluyong Philippines
+postcode: 1550
+city: Mandaluyong
+country: Philippines
+#google_analytics: UA-69300817-1
 
 # needed for travis-ci build
 exclude: [vendor]
